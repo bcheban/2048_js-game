@@ -153,9 +153,11 @@ The layout is designed and tested against the following reference sizes:
 
 ## 📊 Lighthouse
 
-![Lighthouse scores](docs/lighthouse.png)
+<p>
+  <img src="https://bohdancheban-portfolio.vercel.app/api/lighthouse?url=https%3A%2F%2Fbcheban.github.io%2F2048_js-game%2F&strategy=mobile" alt="Lighthouse mobile scores" />
+  <img src="https://bohdancheban-portfolio.vercel.app/api/lighthouse?url=https%3A%2F%2Fbcheban.github.io%2F2048_js-game%2F&strategy=desktop" alt="Lighthouse desktop scores" />
+</p>
 
----
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/bcheban">@bcheban</a>
