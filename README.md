@@ -150,3 +150,13 @@ The layout is designed and tested against the following reference sizes:
 | Desktop | 1280px   |
 | Tablet  | 640px    |
 | Mobile  | > 320px  |
+
+## 📊 Lighthouse
+
+![Lighthouse scores](docs/lighthouse.png)
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/bcheban">@bcheban</a>
+</p>
